@@ -1,0 +1,14 @@
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\bin\Debug\net8.0\BitArrays.exe
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\bin\Debug\net8.0\BitArrays.deps.json
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\bin\Debug\net8.0\BitArrays.runtimeconfig.json
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\bin\Debug\net8.0\BitArrays.dll
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\bin\Debug\net8.0\BitArrays.pdb
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.AssemblyInfoInputs.cache
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.AssemblyInfo.cs
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.csproj.CoreCompileInputs.cache
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.dll
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\refint\BitArrays.dll
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.pdb
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\BitArrays.genruntimeconfig.cache
+C:\Users\mirko.paganelli\source\repos\BitArrays\BitArrays\obj\Debug\net8.0\ref\BitArrays.dll
